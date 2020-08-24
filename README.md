@@ -11,7 +11,7 @@ docker build --tag dask-workshop:latest .
 * First Tag the image
 
 ```
-docker tag dask:latest quansight/dask-workshop:latest
+docker tag dask-workshop:latest quansight/dask-workshop:latest
 ```
 
 * Push the image
